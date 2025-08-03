@@ -7,7 +7,7 @@
  * demonstrates inserting a new value at a specific index using the shiftRight
  * method from the arrayFunctions class.
  * 
- * @author Your Name
+ * @author Chandra Prakash Tekwani
  * @version 1.0
  */
 class Main{
